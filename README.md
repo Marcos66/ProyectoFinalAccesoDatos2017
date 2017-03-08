@@ -4,7 +4,7 @@ Ejercicio de la asignatura Acceso a Datos
 Para poder funcionar con el proyecto debemos de crear la base de datos y luego acceder a ella.
 Para crear la base de datos y cargarla con algunos datos, ejecutando el archivo CrearBD.SQL
 o bien este codigo que es el mismo.
-
+```sql
 -- COMO ROOT PARA CREAR LA BBDD Y EL USUARIO
 
 -- Mostrar los CHARSETs instalados:
@@ -72,3 +72,4 @@ SELECT * FROM USUARIO;
 SELECT * FROM RESERVA;
 -- INSERT INTO PROF_ASIG VALUES ();
 -- INSERT INTO PROF_ASIG VALUES ();
+```
